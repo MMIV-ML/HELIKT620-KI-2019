@@ -9,7 +9,7 @@ Materiale fra forelesning om kunstig intelligens i HELIKT620, januar 2019.
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vQEsv-JEuab__VoAEfRiKdcq2cx7W9fQZNXTGVheKKnkhMbzqXHmY_Y2iezANVZ1DGM0w59ooRAJwv6/pub?start=false&loop=false&delayms=3000">![Slides](assets/presentasjon.png)</a>
 
 # Kode fra hands-on-eksempel
-Notebooken vi brukte var `NLP-eksempel.ipynb`. Også tilgjengelig her:
+Notebooken vi brukte var [`NLP-eksempel.ipynb`](NLP-eksempel.ipynb).Også tilgjengelig her:
 
 
 # Anbefalt litteratur
